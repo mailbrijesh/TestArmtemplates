@@ -1,0 +1,1 @@
+New-AzResourceGroupDeployment -ResourceGroupName "uksouth-250265-application-resources" -Name "testarmlogicapp" -TemplateFile "template (1).json" -TemplateParameterFile "parametersFile (1).json"
