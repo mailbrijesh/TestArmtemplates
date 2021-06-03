@@ -1,0 +1,12 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "workflows_azurerefreshcheck_name": {
+      "value": "testarmlogicapp"
+    },
+    "connections_powerbi_externalid": {
+      "value": "/subscriptions/a6e28535-ed7a-4efb-a999-ba84519f25ae/resourceGroups/uksouth-250265-application-resources/providers/Microsoft.Web/connections/powerbi"
+    }
+  }
+}
